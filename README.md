@@ -50,4 +50,4 @@ Example questions:
 
 ## Notes
 - Chunking defaults to **800 tokens** with **200 overlap** to preserve legal context across chunk boundaries.
-- This repo uses **Gemini** (not OpenAI GPT) via `google-generativeai`.
+- This repo uses **Gemini**  via `google-generativeai`.
